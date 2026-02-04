@@ -6,3 +6,4 @@ Image upload
 Deep Learning prediction
 Web interface
 End-to-end ML pipeline
+
