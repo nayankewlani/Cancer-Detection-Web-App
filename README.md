@@ -13,5 +13,5 @@ python train_model.py
 2.Run app:
 python app.py
 3.uplaod img:
-open http://127.0.0.1:5000
+open http://"file_address"
 upload image
